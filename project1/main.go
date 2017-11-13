@@ -11,6 +11,8 @@ import (
 )
 // https://semaphoreci.com/community/tutorials/building-and-testing-a-rest-api-in-go-with-gorilla-mux-and-postgresql
 // https://elithrar.github.io/article/testing-http-handlers-go/
+// https://www.thepolyglotdeveloper.com/2016/07/create-a-simple-restful-api-with-golang/
+// https://dev.to/codehakase/building-a-restful-api-with-go
 func main() {
     a := App{}
     a.Initialize(
