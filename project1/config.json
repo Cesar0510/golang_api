@@ -1,0 +1,6 @@
+{
+  "username": "user",
+  "password": "password",
+  "port": ":9090",
+  "dbname":"dbname"
+}
