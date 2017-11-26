@@ -1,0 +1,11 @@
+{
+  "database":{
+    "username": "caherdenez",
+    "password": "password",
+    "port": "",
+    "dbname":"dbname",
+    "driver":"sqlite"
+  },
+  "host":"localhost",
+  "port":":9090"
+}
